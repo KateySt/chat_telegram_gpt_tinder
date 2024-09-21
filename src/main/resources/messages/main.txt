@@ -1,0 +1,16 @@
+Hello, this bot combines the convenience of *Telegram*, the power of *ChatGPT* and the fun of *Tinder*.
+
+*The chatbot can:
+1. Generate a Tinder profile based on the description 😎.
+2. Write interesting and intriguing messages for dating. 😘
+3. Conduct correspondence on your behalf 😇🔥.
+4. You can practice chatting with a chatbot. 🥰
+
+
+*Useful commands and links:* 1.
+1. /start - the main menu of the bot
+2. /profile - generate a Tinder profile 😎.
+3. /opener - message to get to know each other 🥰
+4. /message - correspondence on your behalf 😈
+5. /date - correspondence with the stars 🔥
+6. /gpt - ask a question to the GPT chat 🧠
