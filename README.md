@@ -55,9 +55,3 @@ This project is a Java-based Telegram bot that integrates ChatGPT for conversati
 4. **Run the Application:**
    - Open the project in IntelliJ IDEA, add necessary dependencies, and run the bot.
    - The bot will now be live on Telegram, ready to respond to user commands and conversations.
-
-## Future Enhancements
-
-- Add database support for persisting user profiles and chat history.
-- Expand the bot’s conversation capabilities to include multi-language support.
-- Add more dynamic and personalized messaging features for dating interactions.
